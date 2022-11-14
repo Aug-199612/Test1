@@ -12,6 +12,10 @@ public class Prog1_imp {
 		a.addition(25, 'm');
 		Prog1C b=new Prog1C();
 		b.addition();
+//i just did blunder today..!
+//gadbad ho gye yr
+
+
 		
 	}
 
